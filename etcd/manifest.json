@@ -9,7 +9,7 @@
     "support": "README.md#Support",
     "changelog": "CHANGELOG.md",
     "description": "Track writes, updates, deletes, inter-node latencies, and more Etcd metrics.",
-    "title": "etcd Integration",
+    "title": "etcd",
     "media": [],
     "classifier_tags": [
       "Supported OS::Linux",
@@ -17,7 +17,7 @@
       "Supported OS::Windows",
       "Category::Orchestration",
       "Category::Containers",
-      "Category::Configuration Deployment",
+      "Category::Configuration & Deployment",
       "Category::Autodiscovery",
       "Category::Log Collection"
     ]
