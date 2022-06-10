@@ -9,7 +9,7 @@
     "support": "README.md#Support",
     "changelog": "CHANGELOG.md",
     "description": "Palo Alto Networks Firewall log events",
-    "title": "Palo Alto Networks Firewall Integration",
+    "title": "Palo Alto Networks Firewall",
     "media": [],
     "classifier_tags": [
       "Supported OS::Linux",
