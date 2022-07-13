@@ -1,0 +1,5 @@
+[env.collectors.datadog-checks]
+
+[envs.default]
+python = "38"
+e2e-env = false
